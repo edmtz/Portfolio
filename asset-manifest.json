@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.cde50f51.css",
+    "main.js": "/Portfolio/static/js/main.76649ed1.js",
+    "static/media/TreasureHunt.jpg": "/Portfolio/static/media/TreasureHunt.7116ddd5d9a20869999c.jpg",
+    "static/media/CV.pdf": "/Portfolio/static/media/CV.19b76197cd39f54baf74.pdf",
+    "static/media/LifeStore.jpg": "/Portfolio/static/media/LifeStore.dc4a87b44a5eef4ea4cd.jpg",
+    "static/media/about.jpg": "/Portfolio/static/media/about.30de8fa20104a1f46759.jpg",
+    "static/media/SynergyLogistics.jpg": "/Portfolio/static/media/SynergyLogistics.6355eb7c274a51c688ad.jpg",
+    "static/media/Andar.jpg": "/Portfolio/static/media/Andar.880530d71033349d17ca.jpg",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.52b562c0db6443a96b4d.jpg",
+    "static/media/BlogApp.jpg": "/Portfolio/static/media/BlogApp.68e17be2c1123561874b.jpg",
+    "static/media/ChatApp.jpg": "/Portfolio/static/media/ChatApp.b068aca081f660296523.jpg",
+    "static/media/testimonial3.png": "/Portfolio/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/Portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/Portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/Portfolio/index.html",
+    "main.cde50f51.css.map": "/Portfolio/static/css/main.cde50f51.css.map",
+    "main.76649ed1.js.map": "/Portfolio/static/js/main.76649ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde50f51.css",
+    "static/js/main.76649ed1.js"
+  ]
+}
